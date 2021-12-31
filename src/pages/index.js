@@ -20,8 +20,8 @@ export default function Home() {
           Get started by editing{' '}
           <code className={styles.code}>src/pages/index.js</code>
         </p>
-      </main>
       <a href="https://beian.miit.gov.cn"> 冀ICP备12011960号</a>
+      </main>
     </div>
   )
 }
